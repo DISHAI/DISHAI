@@ -11,7 +11,7 @@ Hi there! I’m a beginner developer exploring the world of technology. Right no
 🔭 **Working on**: Smart Home  
 👯 **Looking to collaborate with**: Like-minded programmers  
 🌱 **Learning**: Arduino, IoT basics, and a bit of electronics  
-⚡ **Fun fact**: I’m a schoolboy with big dreams about a tech-filled future  
+⚡ **Fun fact**: I’m a student with big dreams about a tech-filled future  
 
 ---
 
