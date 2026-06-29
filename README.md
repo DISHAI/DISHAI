@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌟 Hi, I’m DISHACKER!</h1>
+  <h1>🌟 Hi, I’m Riva!</h1>
   <p>A Russia schoolboy passionate about technology and building cool stuff</p>
 </div>
 
