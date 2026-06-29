@@ -9,7 +9,6 @@
 Hi there! I’m a beginner developer exploring the world of technology. Right now, I’m working on a **smart home** project, blending code and hardware to make life more convenient. I love learning new things, and currently, I’m diving into **Arduino** — my gateway to the world of electronics!  
 
 🔭 **Working on**: Smart Home  
-👯 **Looking to collaborate with**: Like-minded programmers  
 🌱 **Learning**: Arduino, IoT basics, and a bit of electronics  
 ⚡ **Fun fact**: I’m a student with big dreams about a tech-filled future  
 
