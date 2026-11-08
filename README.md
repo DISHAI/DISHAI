@@ -39,17 +39,17 @@
 - Создание личных ботов и скриптов
 - Эксперименты со Smart Home / IoT
 - Геймдев (Unity)
-- Спорт и самодисциплина
+- Спорт, дисциплина, безумие и obsession
 
-> “Discipline is doing what needs to be done, even when you don’t feel like it.”
+> “Discipline. Madness. Obsession.”
 
 ---
 
 ### GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DISHAI&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DISHAI&layout=compact&theme=radical&hide_border=true" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=DISHAI&show_icons=true&theme=radical&hide_border=true" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DISHAI&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -65,5 +65,5 @@
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=DISHAI&icon=0&color=9" alt="visitors" />
   <br><br>
-  <i>Built with code and discipline</i>
+  <i>Built with code, discipline and a little madness</i>
 </div>
