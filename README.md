@@ -10,17 +10,17 @@
 
 ### About Me
 
-I’m a student who balances two things I love:
+Я студент, который совмещает две важные для себя вещи:
 
-- **Sports** — constantly working on myself physically  
-- **Code** — writing bots, automation tools and small programs that make life easier
+- **Спорт** — постоянно работаю над собой физически  
+- **Код** — пишу ботов, автоматизацию и небольшие программы, которые делают жизнь удобнее
 
-Most of the time I’m either training or sitting with the laptop, building something useful for myself (and sometimes for friends).
+Большую часть времени я либо тренируюсь, либо сижу за ноутбуком и делаю что-то полезное для себя (и иногда для друзей).
 
-Currently focused on:
-- Writing Telegram bots and personal automation tools
-- Exploring hardware (Arduino / IoT)
-- Improving as an athlete
+Сейчас в фокусе:
+- Telegram-боты и личная автоматизация
+- Железо (Arduino / IoT)
+- Развитие как спортсмена
 
 ---
 
@@ -36,10 +36,10 @@ Currently focused on:
 
 ### What I’m into right now
 
-- Creating personal bots and scripts
-- Smart home / IoT experiments
-- Game development (Unity)
-- Sports & self-discipline
+- Создание личных ботов и скриптов
+- Эксперименты со Smart Home / IoT
+- Геймдев (Unity)
+- Спорт и самодисциплина
 
 > “Discipline is doing what needs to be done, even when you don’t feel like it.”
 
