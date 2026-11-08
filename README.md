@@ -1,63 +1,69 @@
 <div align="center">
-  <h1>🌟 Hi, I’m Riva!</h1>
-  <p>A Russia schoolboy passionate about technology and building cool stuff</p>
+  <h1>👋 Hi, I’m Riva</h1>
+  <p>
+    <b>Student • Athlete • Developer</b><br>
+    Building bots, programs and small systems for myself while training hard.
+  </p>
 </div>
 
 ---
 
-## 🚀 About Me
-Hi there! I’m a beginner developer exploring the world of technology. Right now, I’m working on a **smart home** project, blending code and hardware to make life more convenient. I love learning new things, and currently, I’m diving into **Arduino** — my gateway to the world of electronics!  
+### About Me
 
-🔭 **Working on**: Smart Home  
-🌱 **Learning**: Arduino, IoT basics, and a bit of electronics  
-⚡ **Fun fact**: I’m a student with big dreams about a tech-filled future  
+I’m a student who balances two things I love:
 
----
+- **Sports** — constantly working on myself physically  
+- **Code** — writing bots, automation tools and small programs that make life easier
 
-## 🌐 Socials
-Connect with me or check out what I’m up to:  
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@KuramaDis)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dishacker)  
+Most of the time I’m either training or sitting with the laptop, building something useful for myself (and sometimes for friends).
 
----
-
-## 💻 My Tech Stack
-Technologies I work with and experiment with:  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) — for automation and scripting  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) — for styling web projects  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) — for controlling devices  
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) — for game development  
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) — for graphics work  
+Currently focused on:
+- Writing Telegram bots and personal automation tools
+- Exploring hardware (Arduino / IoT)
+- Improving as an athlete
 
 ---
 
-## 📊 GitHub Stats
-My activity in numbers:  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DISHAI&show_icons=true&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DISHAI&layout=compact&theme=dracula)  
+### Tech Stack
+
+| Category       | Technologies |
+|----------------|--------------|
+| **Languages**  | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Hardware**   | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
+| **Other**      | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white) |
 
 ---
 
-## 🌟 My Interests
-- Exploring the Internet of Things (IoT)  
-- Creating games and interactive apps  
-- Automating everyday tasks  
+### What I’m into right now
 
-> **Favorite Quote**: "Technology is magic we can understand and use."  
+- Creating personal bots and scripts
+- Smart home / IoT experiments
+- Game development (Unity)
+- Sports & self-discipline
+
+> “Discipline is doing what needs to be done, even when you don’t feel like it.”
 
 ---
 
-## 📬 Get in Touch
-Want to discuss projects or just chat about tech?  
-✨ Telegram: [@dishacker](https://t.me/dishacker)  
+### GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DISHAI&show_icons=true&theme=radical&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DISHAI&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+---
+
+### Connect with me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dishacker)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KuramaDis)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
 
 ---
 
 <div align="center">
-  <h3>👀 How many people have visited?</h3>
-  <img src="https://visitcount.itsvg.in/api?id=DISHAI&icon=0&color=9" alt="Visitor Count" />
+  <img src="https://visitcount.itsvg.in/api?id=DISHAI&icon=0&color=9" alt="visitors" />
+  <br><br>
+  <i>Built with code and discipline</i>
 </div>
-
----
-*Created with ❤️ and a bit of code*
